@@ -1,4 +1,4 @@
-Ostrolab Insecure App Readme
+Ostrolab Insecure App Readme Fluid Attacks
 ==========
 
 This is a vulnerable Android application which contains a number of vulnerable components
